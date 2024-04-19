@@ -1,0 +1,14 @@
+C:\Users\johnf\Documents\Github\DGD203-main\bin\Debug\net8.0\DGD203.exe
+C:\Users\johnf\Documents\Github\DGD203-main\bin\Debug\net8.0\DGD203.deps.json
+C:\Users\johnf\Documents\Github\DGD203-main\bin\Debug\net8.0\DGD203.runtimeconfig.json
+C:\Users\johnf\Documents\Github\DGD203-main\bin\Debug\net8.0\DGD203.dll
+C:\Users\johnf\Documents\Github\DGD203-main\bin\Debug\net8.0\DGD203.pdb
+C:\Users\johnf\Documents\Github\DGD203-main\obj\Debug\net8.0\DGD203.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\johnf\Documents\Github\DGD203-main\obj\Debug\net8.0\DGD203.AssemblyInfoInputs.cache
+C:\Users\johnf\Documents\Github\DGD203-main\obj\Debug\net8.0\DGD203.AssemblyInfo.cs
+C:\Users\johnf\Documents\Github\DGD203-main\obj\Debug\net8.0\DGD203.csproj.CoreCompileInputs.cache
+C:\Users\johnf\Documents\Github\DGD203-main\obj\Debug\net8.0\DGD203.dll
+C:\Users\johnf\Documents\Github\DGD203-main\obj\Debug\net8.0\refint\DGD203.dll
+C:\Users\johnf\Documents\Github\DGD203-main\obj\Debug\net8.0\DGD203.pdb
+C:\Users\johnf\Documents\Github\DGD203-main\obj\Debug\net8.0\DGD203.genruntimeconfig.cache
+C:\Users\johnf\Documents\Github\DGD203-main\obj\Debug\net8.0\ref\DGD203.dll
